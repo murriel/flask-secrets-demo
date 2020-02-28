@@ -1,0 +1,5 @@
+bin
+flask-venv
+.vscode
+__pycache__/
+**/__pycache__/
